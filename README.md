@@ -1,6 +1,6 @@
 # Uplift-Team-ds-01
 
-First of all, every student has to make their own directory. Follow the process below,
+First of all, every student has to make their own directory With there full name. Follow the process below,
 
 ### How to contribute ?
 
